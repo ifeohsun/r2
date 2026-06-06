@@ -24,3 +24,7 @@ pnpm-debug.log*
 # Docker Scout diagnostic artifacts
 scout-sbom.json
 scout_*.txt
+
+.dev.vars*
+!.dev.vars.example
+!.env.example
