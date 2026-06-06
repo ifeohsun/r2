@@ -93,9 +93,9 @@ simple = { limit = 60, period = 60 }
 #   - DNS must be managed by Cloudflare
 #
 # [[routes]]
-# pattern = "your-subdomain.your-domain.com"  # CHANGE THIS
+# pattern = "r.161696.xyz"  # CHANGE THIS
 # custom_domain = true
-# zone_name = "your-domain.com"               # CHANGE THIS
+# zone_name = "161696.xyz"               # CHANGE THIS
 
 # ============================================
 # REQUIRED SECRETS (Set via CLI)
